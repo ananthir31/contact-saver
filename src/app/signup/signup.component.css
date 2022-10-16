@@ -1,0 +1,38 @@
+img{
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    width: 100%;
+    height: 657px;
+    background-size: cover;
+}
+.card{
+    
+    border: none;
+    width: 500px;
+    padding: 25px;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    background: hsla(205, 46%, 30%, 1);
+    background: linear-gradient(90deg, rgb(211, 73, 165) 0%, rgb(57, 32, 109) 100%);
+
+}
+.card h1,
+h1{
+    color: rgb(14, 0, 0);
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+h6{
+    color: #fff;
+}
+label{
+    color: rgb(37, 4, 4);
+    
+}
+.form-text{
+    color: rgb(255, 174, 0);
+}

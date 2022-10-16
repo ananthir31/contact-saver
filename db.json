@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Ananthi R",
+      "phoneno": 6374406293
+    },
+    {
+      "id": 3,
+      "name": "Aarthi Junior IT",
+      "phoneno": 7558113482
+    },
+    {
+      "id": 4,
+      "name": "Aarthy IT",
+      "phoneno": 71524769566
+    },
+    {
+      "id": 5,
+      "name": "Aatheesh Bro NEC",
+      "phoneno": 9790397881
+    },
+    {
+      "id": 6,
+      "name": "Abicheke Senior NEC",
+      "phoneno": 9629697557
+    },
+    {
+      "id": 7,
+      "name": "Abi Bro",
+      "phoneno": 822032252
+    },
+    {
+      "id": 8,
+      "name": "Abinash Bro NSS",
+      "phoneno": 7010746436
+    },
+    {
+      "id": 9,
+      "name": "Abinesh IT",
+      "phoneno": 6369260578
+    },
+    {
+      "id": 10,
+      "name": "Amarnath MECH",
+      "phoneno": 7010981867
+    },
+    {
+      "id": 11,
+      "name": "Mom",
+      "phoneno": 7373444780
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Ananthi",
+      "email": "rananthi714@gmail.com",
+      "password": "123",
+      "mobile": 123,
+      "id": 1
+    },
+    {
+      "fullname": "ANANTHI R",
+      "email": "rananthi714@gmail.com",
+      "password": "genuine#",
+      "mobile": 6374406293,
+      "id": 2
+    },
+    {
+      "fullname": "ANANTHI R",
+      "email": "rananthi714@gmail.com",
+      "password": "genuine#",
+      "mobile": 6374406293,
+      "id": 3
+    },
+    {
+      "fullname": "Ananthi R",
+      "email": "2015028@nec.edu.in",
+      "password": "1234",
+      "mobile": 64235678,
+      "id": 4
+    },
+    {
+      "fullname": "Ananthi R",
+      "email": "2015028@nec.edu.in",
+      "password": "1234",
+      "mobile": 64235678,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
